@@ -1,31 +1,43 @@
-# Hello world 👋
-
-
-```
-▄▄▄▄▄▄▄                       ▄▄▄▄                  ▀        █ 
-   █     ▄ ▄▄  ▄   ▄   ▄▄▄   ▄▀  ▀▄ ▄   ▄   ▄▄▄   ▄▄▄     ▄▄▄█ 
-   █     █▀  ▀ █   █  █▀  █  █    █ ▀▄ ▄▀  █▀ ▀█    █    █▀ ▀█ 
-   █     █     █   █  █▀▀▀▀  █    █  █▄█   █   █    █    █   █ 
-   █     █     ▀▄▄▀█  ▀█▄▄▀   █▄▄█    █    ▀█▄█▀  ▄▄█▄▄  ▀█▄██ 
+```text
+  ████████╗██████╗ ██╗   ██╗███████╗██████╗ ██╗   ██╗██████╗ ██╗██████╗ 
+  ╚══██╔══╝██╔══██╗██║   ██║██╔════╝██╔══██╗██║   ██║██╔══██╗██║██╔══██╗
+     ██║   ██████╔╝██║   ██║█████╗  ██║  ██║██║   ██║██║  ██║██║██║  ██║
+     ██║   ██╔══██╗██║   ██║██╔══╝  ██║  ██║██║   ██║██║  ██║██║██║  ██║
+     ██║   ██║  ██║╚██████╔╝███████╗██████╔╝╚██████╔╝██████╔╝██║██████╔╝
+     ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═════╝  ╚═════╝ ╚═════╝ ╚═╝╚═════╝ 
 ```
 
+[![TryHackMe](https://img.shields.io/badge/TRYHACKME-True0void-212c42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/True0void)
+[![Linux User](https://img.shields.io/badge/LINUX_USER-PRO-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
 
+[![CachyOS](https://img.shields.io/badge/CACHYOS-USER-008080?style=for-the-badge&logo=archlinux&logoColor=white)](#)
+[![Void Linux](https://img.shields.io/badge/VOID_LINUX-USER-478061?style=for-the-badge&logo=voidlinux&logoColor=white)](#)
+[![Alpine Linux](https://img.shields.io/badge/ALPINE-USER-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=white)](#)
 
-[![TryHackMe](https://img.shields.io/badge/TRYHACKME-212c42?style=for-the-badge&logo=tryhackme&logoColor=red)]([https://tryhackme.com/p/True0void](https://tryhackme.com/p/think0btw))
-![CachyOS](https://img.shields.io/badge/User-008080?style=for-the-badge&logo=archlinux&logoColor=white)
-![Void Linux](https://img.shields.io/badge/User-478061?style=for-the-badge&logo=voidlinux&logoColor=white)
-![Alpine Linux](https://img.shields.io/badge/User-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=white)
-<!--
-**True0void/True0void** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+### 👋 Hello world!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a student passionate about **cybersecurity**, **reverse engineering**, and **software development**. 
+
+I drop my personal projects here—feel free to check them out! I'm always open to suggestions, feedback, and improvements.
+
+<br/>
+
+### 🛠️ Tools & Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<br/>
+
+---
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=True0void&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=True0void&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
