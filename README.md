@@ -6,7 +6,7 @@
    █     █     ▀▄▄▀█  ▀█▄▄▀   █▄▄█    █    ▀█▄█▀  ▄▄█▄▄  ▀█▄██ 
 ```
 
-[![TryHackMe](https://img.shields.io/badge/TRYHACKME-True0void-212c42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/True0void)
+[![TryHackMe](https://img.shields.io/badge/TRYHACKME-think0btw-212c42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/think0btw)
 [![Linux User](https://img.shields.io/badge/Advenced_USER--FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
 
 [![Void Linux](https://img.shields.io/badge/VOID_LINUX-USER-478061?style=for-the-badge&logo=voidlinux&logoColor=white)](#)
@@ -21,7 +21,7 @@ I am a student passionate about **cybersecurity**, **reverse engineering**, and 
 
 I drop my personal projects here—feel free to check them out! I'm always open to suggestions, feedback, and improvements.
 
-A big **Bash enjoyer** and Linux power user—Bash
+A big **Bash enjoyer** and Linux user
 <br/>
 
 ### 🛠️ Tools & Languages
