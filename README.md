@@ -16,12 +16,13 @@
 
 <br/>
 
-### 👋 Hello world!
+## 👋 Hello world!
 
-I am a student passionate about **cybersecurity**, **reverse engineering**, and **software development**. 
+###I am a student passionate about **cybersecurity**, **reverse engineering**, and **software development**. 
 
-I drop my personal projects here—feel free to check them out! I'm always open to suggestions, feedback, and improvements.
-A big **Bash enjoyer** and Linux power user—Bash
+###I drop my personal projects here—feel free to check them out! I'm always open to suggestions, feedback, and improvements.
+
+###A big **Bash enjoyer** and Linux power user—Bash
 <br/>
 
 ### 🛠️ Tools & Languages
@@ -30,7 +31,6 @@ A big **Bash enjoyer** and Linux power user—Bash
 ![Shell](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-[Bash](https://img.shields.io/badge/GNU_Bash-Main_Language-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 <br/>
