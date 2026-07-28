@@ -18,11 +18,11 @@
 
 ## 👋 Hello world!
 
-###I am a student passionate about **cybersecurity**, **reverse engineering**, and **software development**. 
+### I am a student passionate about **cybersecurity**, **reverse engineering**, and **software development**. 
 
-###I drop my personal projects here—feel free to check them out! I'm always open to suggestions, feedback, and improvements.
+### I drop my personal projects here—feel free to check them out! I'm always open to suggestions, feedback, and improvements.
 
-###A big **Bash enjoyer** and Linux power user—Bash
+### A big **Bash enjoyer** and Linux power user—Bash
 <br/>
 
 ### 🛠️ Tools & Languages
