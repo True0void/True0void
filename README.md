@@ -7,7 +7,7 @@
 ```
 
 [![TryHackMe](https://img.shields.io/badge/TRYHACKME-think0btw-212c42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/think0btw)
-[![Linux User](https://img.shields.io/badge/Advenced_USER--FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
+[![Linux User](https://img.shields.io/badge/Advanced-USER-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
 
 [![Void Linux](https://img.shields.io/badge/VOID_LINUX-USER-478061?style=for-the-badge&logo=voidlinux&logoColor=white)](#)
 [![Arch](https://img.shields.io/badge/Arch-USER-008080?style=for-the-badge&logo=archlinux&logoColor=white)](#)
