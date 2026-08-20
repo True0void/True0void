@@ -3,7 +3,7 @@
    █     ▄ ▄▄  ▄   ▄   ▄▄▄   ▄▀  ▀▄ ▄   ▄   ▄▄▄   ▄▄▄     ▄▄▄█ 
    █     █▀  ▀ █   █  █▀  █  █    █ ▀▄ ▄▀  █▀ ▀█    █    █▀ ▀█ 
    █     █     █   █  █▀▀▀▀  █    █  █▄█   █   █    █    █   █ 
-   █     █     ▀▄▄▀█  ▀█▄▄▀   █▄▄█    █    ▀█▄█▀  ▄▄█▄▄  ▀█▄██ 
+   █     █     ▀▄▄▀█  ▀█▄▄▀   █▄▄█    █    ▀█▄█▀  ▄▄█▄▄  ▀█▄██  
 ```
 
 [![TryHackMe](https://img.shields.io/badge/TRYHACKME-think0btw-212c42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/think0btw)
