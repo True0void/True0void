@@ -17,7 +17,7 @@
 
 ## 👋 Hello world!
 
-I am a student passionate about **cybersecurity**, **reverse engineering**, and **software development**. 
+I am a student working on **cybersecurity**, **reverse engineering**, and **software development** project. 
 
 I drop my personal projects here—feel free to check them out! I'm always open to suggestions, feedback, and improvements.
 
