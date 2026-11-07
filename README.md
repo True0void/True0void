@@ -1,9 +1,8 @@
 ```text
-                         ▄▄▄▄▄▄▄                       ▄▄▄▄                  ▀        █ 
-                            █     ▄ ▄▄  ▄   ▄   ▄▄▄   ▄▀  ▀▄ ▄   ▄   ▄▄▄   ▄▄▄     ▄▄▄█ 
-                            █     █▀  ▀ █   █  █▀  █  █    █ ▀▄ ▄▀  █▀ ▀█    █    █▀ ▀█ 
-                            █     █     █   █  █▀▀▀▀  █    █  █▄█   █   █    █    █   █ 
-                            █     █     ▀▄▄▀█  ▀█▄▄▀   █▄▄█    █    ▀█▄█▀  ▄▄█▄▄  ▀█▄██  
+██▀▀▀▀▀█  ██▀▀▀▀▀█ ▀▀▀▀█▀▀▀ ██▀▀▀▀▀█
+██▄▄▄▄▄█▄ ██    ██    ██    ██    ██
+██     ▄█ ██    ██    ██    ██    ██
+██▄▄▄▄▄▄█ ██▄▄▄▄▄█    ██    ██▄▄▄▄▄█ 
 ```
 [![TryHackMe](https://img.shields.io/badge/TRYHACKME-think0btw-212c42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/think0btw)
 [![Linux User](https://img.shields.io/badge/Advanced-USER-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
